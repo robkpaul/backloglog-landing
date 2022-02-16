@@ -1,0 +1,22 @@
+.page-container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.line-container {
+    width: 45%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.line-1 {
+    font-size: larger;
+}
+
+.line-2 {
+    font-weight: 100;
+}
